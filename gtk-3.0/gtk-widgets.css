@@ -1469,7 +1469,7 @@ GtkScale.vertical {
 }
 
 .scale.trough.highlight {
-    background-color: #df784e;
+    background-color: #3197fe;
     background-image: none;
     background-clip: content-box;
 }
